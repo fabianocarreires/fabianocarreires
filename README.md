@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Fabiano Carreires. 🤝🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-carreires-479baa245/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fabianocarreires@gmail.com)
 
 ![Fabiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianocarreires&show_icons=true&theme=dark)
 
@@ -15,5 +14,6 @@
 </div><br/>
 
 Decidi fazer uma transição de carreira e trabalhar na área que sempre desejei.
-Meu principal objetivo é trabalhar como desenvolvedor de software e para isso estou buscando a minha primeira experiência profissional na área de TI.
+Meu principal objetivo é trabalhar como desenvolvedor de software e para isso estou buscando a minha primeira experiência profissional na área de TI.<br/>
+Contato: fabianocarreires@gmail.com
 
