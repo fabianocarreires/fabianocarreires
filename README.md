@@ -15,5 +15,5 @@
 </div><br/>
 
 Decidi fazer uma transição de carreira e trabalhar na área que sempre desejei.
-Meu principal objetivo é trabalhar como desenvolvedor de software e para isso estou buscando a minha primeira experiência profissional na área de TI, através de estágio.
+Meu principal objetivo é trabalhar como desenvolvedor de software e para isso estou buscando a minha primeira experiência profissional na área de TI.
 
